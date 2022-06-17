@@ -1,5 +1,6 @@
 # Landing-Page-Rafa-Ballerini
-Primeiro projetinho usando HTML5 e CSS3 criado pela Rafa Ballerini.
+Primeiro projetinho utilizando conceitos básicos de HTML5 e CSS3.
+
 
 https://aryfontes.github.io/Landing-Page-Rafa-Ballerini/
 
